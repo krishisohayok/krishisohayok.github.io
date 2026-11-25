@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.krishisohayok.pocketnotebook",
+      "sha256_cert_fingerprints": [
+        "A6:B4:10:C1:70:A1:06:E6:D5:8A:8E:C4:19:D0:08:2C:7F:AE:E8:B5:20:D1:7C:6C:47:6B:30:FC:F3:E6:44:1D"
+      ]
+    }
+  }
+]
